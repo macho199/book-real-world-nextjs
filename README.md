@@ -1,1 +1,1 @@
-# book-real-world-nextjs
+# 실전에서 바로 쓰는 Next.js 책 공부
